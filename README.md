@@ -1,2 +1,3 @@
-# HighSierra-HP250G6
-This is a EFI Folder by Balthazar_2001 on the Tonymacx86 Forums. All Credit to him
+# 250G6-HS
+This is my efi, use it, hack it, improve it and Fix the damn Sleep bug
+
